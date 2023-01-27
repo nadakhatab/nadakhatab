@@ -1,4 +1,4 @@
-I am a PhD. Student in Quantum Information at City University of New York (GC CUNY)
+I am a PhD. Student in Quantum Information at City University of New York, Graduate Center (GC CUNY)
 
 - I’m currently working on **Quantum Information** and **Quantum Computing**
 - I’m currently learning **Quantum Machine Learning**
